@@ -29,4 +29,4 @@ A simple and responsive **Weather App** built using **React** and **Vite**. Get 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+https://github.com/adityarajsingh11/Weather-App

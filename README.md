@@ -30,3 +30,24 @@ Clone the repository:
 
 ```bash
 https://github.com/adityarajsingh11/Weather-App
+
+````
+
+
+## 📁 Project Structure
+````
+weather-app/
+├─ public/ # Static files like favicon, images
+│ └─ index.html
+├─ src/ # All your React source code
+│ ├─ assets/ # Images, icons, etc.
+│ ├─ components/ # Reusable React components
+│ │ ├─ WeatherCard.jsx # Component to show weather info
+│ │ └─ SearchBar.jsx # Component for city search input
+│ ├─ App.jsx # Main App component
+│ ├─ main.jsx # Entry point for Vite + React
+│ └─ index.css # Global CSS styles
+├─ package.json # Project dependencies and scripts
+├─ vite.config.js # Vite configuration
+└─ README.md # Project documentation
+````
